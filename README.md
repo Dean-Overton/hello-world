@@ -1,2 +1,3 @@
 # hello-world
-This is a hello world project
+Hello everyone, Im dean.
+I love c# coding lol
